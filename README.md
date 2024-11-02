@@ -25,3 +25,5 @@ How to install:
 
 I am adding more Features soon!
 
+❓ If you need help dm me on Discord = p0x1c0 ❓
+
