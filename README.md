@@ -10,7 +10,7 @@ How to install:
 
 4. Now enter your token from the bot you just created.
 
-5. enter the server id fronm the server you want to Nuke.
+5. enter the server id from the server you want to Nuke.
 
 6. ✔ Now you are ready to nuke ✔
 
