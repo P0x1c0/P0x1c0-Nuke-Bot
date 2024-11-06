@@ -2,11 +2,11 @@
 
 How to install: 
 
-1. Download python: https://www.python.org/downloads/
+1. Download python 3.10.0: [https://www.python.org/downloads/](https://www.python.org/downloads/release/python-3100/)
 
 2. Create a discord bot: https://discord.com/developers/applications
 
-3. Open main.py and run py main.py
+3. Open main.py and run pip install discord an then py main.py
 
 4. Now enter your token from the bot you just created.
 
